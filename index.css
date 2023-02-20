@@ -1,0 +1,17 @@
+/* Write your code here. */
+.bg-container {
+  background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+  background-size: cover;
+  height: 100vh;
+}
+.heading {
+  font-family: "Roboto";
+  color: #0f172a;
+  font-size: 30px;
+}
+.card-container {
+  background-color: #cffafe;
+}
+.image {
+  border-radius: 50px;
+}
